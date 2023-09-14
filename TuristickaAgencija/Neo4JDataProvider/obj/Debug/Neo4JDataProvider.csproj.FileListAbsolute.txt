@@ -1,0 +1,44 @@
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4JDataProvider.dll.config
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4JDataProvider.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4JDataProvider.pdb
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4j.Driver.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4jClient.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.ValueTuple.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4j.Driver.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.ValueTuple.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.csproj.CopyComplete
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.pdb
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4JDataProvider.dll.config
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4JDataProvider.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4JDataProvider.pdb
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4j.Driver.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4jClient.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.ValueTuple.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Neo4j.Driver.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\bin\Debug\System.ValueTuple.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.csproj.AssemblyReference.cache
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.csproj.CopyComplete
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\Neo4JDataProvider\obj\Debug\Neo4JDataProvider.pdb

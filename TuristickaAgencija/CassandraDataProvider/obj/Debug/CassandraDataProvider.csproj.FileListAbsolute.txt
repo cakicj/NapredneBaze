@@ -1,0 +1,87 @@
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\CassandraDataProvider.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\CassandraDataProvider.pdb
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Cassandra.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Buffers.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Memory.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Cassandra.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Buffers.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Memory.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.csproj.CopyComplete
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.pdb
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\CassandraDataProvider.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\CassandraDataProvider.pdb
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Cassandra.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Buffers.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Memory.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Cassandra.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Buffers.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Memory.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.csproj.AssemblyReference.cache
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.csproj.CopyComplete
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.pdb
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\CassandraDataProvider.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\CassandraDataProvider.pdb
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Cassandra.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Buffers.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Memory.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Cassandra.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Buffers.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Memory.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.csproj.AssemblyReference.cache
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.csproj.CopyComplete
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\CassandraDataProvider\obj\Debug\CassandraDataProvider.pdb

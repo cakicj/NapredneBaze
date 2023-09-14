@@ -1,0 +1,168 @@
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\TuristickaAgencija.exe.config
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\TuristickaAgencija.exe
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\TuristickaAgencija.pdb
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\CassandraDataProvider.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4JDataProvider.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Cassandra.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4jClient.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Newtonsoft.Json.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4j.Driver.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Memory.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Buffers.dll
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\CassandraDataProvider.pdb
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4JDataProvider.pdb
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4JDataProvider.dll.config
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Cassandra.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Newtonsoft.Json.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4j.Driver.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Memory.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Buffers.xml
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.exe.config
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickaAgencijaPrikaz.resources
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Properties.Resources.resources
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.GenerateResource.cache
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.CopyComplete
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.exe
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.pdb
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DrzavaPrikaz.resources
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DestinacijaPrikaz.resources
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.HotelPrikaz.resources
+C:\Users\korisnik\Desktop\Napredne baze 1. projekat\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickiVodicPrikaz.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\TuristickaAgencija.exe.config
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\TuristickaAgencija.exe
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\TuristickaAgencija.pdb
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\CassandraDataProvider.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4JDataProvider.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Cassandra.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4jClient.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4j.Driver.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Memory.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Buffers.dll
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\CassandraDataProvider.pdb
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4JDataProvider.pdb
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4JDataProvider.dll.config
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Cassandra.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4j.Driver.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Memory.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Buffers.xml
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.AssemblyReference.cache
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.exe.config
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DestinacijaAzuriranje.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DestinacijaDodavanje.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DestinacijaPrikaz.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DrzavaAzuriranje.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DrzavaDodavanje.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DrzavaPrikaz.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.HotelAzuriranje.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.HotelDodavanje.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.HotelPrikaz.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickaAgencijaPrikaz.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickiVodicAzuriranje.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickiVodicDodavanje.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickiVodicPrikaz.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Properties.Resources.resources
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.GenerateResource.cache
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.CopyComplete
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.exe
+C:\Users\Lazar\Desktop\Djika\Napredne baze\NapredneBaze1i2Projekat-main\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.pdb
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\TuristickaAgencija.exe.config
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\TuristickaAgencija.exe
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\TuristickaAgencija.pdb
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\CassandraDataProvider.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4JDataProvider.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Cassandra.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4jClient.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4j.Driver.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Memory.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Buffers.dll
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\CassandraDataProvider.pdb
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4JDataProvider.pdb
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4JDataProvider.dll.config
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Cassandra.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Neo4j.Driver.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Memory.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\bin\Debug\System.Buffers.xml
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.AssemblyReference.cache
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.exe.config
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DestinacijaAzuriranje.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DestinacijaDodavanje.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DestinacijaPrikaz.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DrzavaAzuriranje.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DrzavaDodavanje.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.DrzavaPrikaz.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.HotelAzuriranje.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.HotelDodavanje.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.HotelPrikaz.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickaAgencijaPrikaz.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickiVodicAzuriranje.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickiVodicDodavanje.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Forme.TuristickiVodicPrikaz.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.Properties.Resources.resources
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.GenerateResource.cache
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.CoreCompileInputs.cache
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.csproj.CopyComplete
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.exe
+C:\Users\Lazar\Desktop\1.i2 domaci\TuristickaAgencija\TuristickaAgencija\obj\Debug\TuristickaAgencija.pdb
